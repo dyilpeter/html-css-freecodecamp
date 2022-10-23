@@ -1,0 +1,4 @@
+<!DOCTYPE html>
+<html>
+<h1>Version of HTML</h1>
+</html>

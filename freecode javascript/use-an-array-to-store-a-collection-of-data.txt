@@ -1,0 +1,1 @@
+let yourArray = ["ghxs", 3, true, 4, 6]; // Change this line
